@@ -10,6 +10,7 @@ Certain ZMK features (e.g. combos) require knowing the exact key positions in th
 
 ## Building the Firmware with GitHub Actions
 
+
 ### Setup
 
 1. Fork this repo.
